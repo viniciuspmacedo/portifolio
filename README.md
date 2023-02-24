@@ -2,7 +2,7 @@
 
 Olá, bem vindo ao meu projeto desenvolvido durante as aulas de HTML / CSS na Alura.
 
-![portifolio](https://user-images.githubusercontent.com/83282287/221065704-018edcaf-a3cc-47b4-97b0-583d2bfdbf4b.png)
+![portifolio](https://user-images.githubusercontent.com/83282287/221065986-aec3a5b2-119e-4f57-beed-98859fbdec77.png)
 
 ## Ferramentas Utilizadas:
 * HTML
